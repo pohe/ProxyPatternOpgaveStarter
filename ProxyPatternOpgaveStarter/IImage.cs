@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProxyPatternOpgaveStarter
 {
-    internal interface IImage
+    public interface IImage
     {
+        void Display();
     }
 }
