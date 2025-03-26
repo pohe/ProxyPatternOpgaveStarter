@@ -22,9 +22,9 @@ namespace ProxyPatternOpgaveStarter
             Console.WriteLine("Loading image " + filename);
         }
 
-        public void display()
+        public void Display()
         {
             Console.WriteLine("Displaying image " + filename);
         }
-
+    }
 }
